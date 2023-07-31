@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: var(--bg) !important;
+    transition: all 3ms ease;
+    color: var(--black);
+    scroll-behavior: smooth;
+}

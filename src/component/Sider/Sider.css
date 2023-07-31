@@ -1,0 +1,8 @@
+.carousel {
+    padding: 1fr 2fr;
+}
+
+.transform {
+    transform: rotate(-35deg);
+    z-index: 0;
+}
